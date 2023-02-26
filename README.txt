@@ -3,7 +3,7 @@ a. server (backend)
 b. web (frontend)
 
 **Description**
-User able to enter original url in the field provided and click "Shorten URL" button to shorten the url. If url successfully shorten, it will shows at the url list. User able to view all the original urls and shorten urls. They can click the shorten url and redirect to the correspoding website. 
+User able to enter original url in the field provided and click "Shorten URL" button to shorten the url. If url successfully shorten, it will shows at the url list. User able to view all the original urls and shorten urls. They can click the shorten url and redirect to the correspoding website. The shorten url will be redirect from domain + short_url (Example: http://localhost:8080/0LXMjWvmH) to the orignal url.
 
 1. To start server project,
 a. Run "npm install"
